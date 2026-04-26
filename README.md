@@ -28,7 +28,7 @@ Save all the key information for your water recipes, such as general hardness, s
 
 Flexibility and Convenience:
 Beanconqueror is available for both iOS and Android, so you can take it with you wherever you go.
-It also supports several languages, including English, German, Spanish, Chinese, and Turkish, and more will be added in the future. Beanconqueror is also Open Source and free to use.
+It also supports several languages, including English, German, Spanish, Chinese, Japanese, and Turkish, and more will be added in the future. Beanconqueror is also Open Source and free to use.
 
 Flow & Pressure Profiling:
 Beanconqueror is compatible with a range of bluetooth scales and pressure profile devices, including Decent Scale, Acaia Scales, Felicita Scales, Hiroia Jimmy, Eureka Precisa, Skale2, Smart Espresso Profiler, and Pressensor.
